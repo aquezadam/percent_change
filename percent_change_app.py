@@ -7,7 +7,7 @@ st.markdown('''
     style='background-color:#DCDCDC;
     text-align:center;
     color:#1A5276;'>
-    PERCENT RANGE CALCULATOR
+    PERCENT RANGE CALCULATOR tra la la 
     </h1>
     ''', unsafe_allow_html=True)
 st.markdown('''
